@@ -1,35 +1,54 @@
-# 👋 Hi, I’m Gowtham!
+# 👋 Hi, I'm Gowtham
 
-**Web Developer & Graphic Designer**  
-Crafting clean code and creative visuals.
+🎓 **Fresher | Aspiring .NET Developer**
 
----
-
-### 🚀 About Me
-- 🤓 Skilled in **graphic design**, web development (quiz pages & beyond), and **video editing**
-- 🖌️ Passionate about blending design with interactive web experiences
-- 😎 Always striving to keep it **cool**
+I am a fresher currently learning **C#**, **.NET**, and **WPF (Windows Presentation Foundation)**.  
+I am focused on building strong fundamentals in desktop application development and improving my problem-solving and coding skills.
 
 ---
 
-### 🛠️ Skills
-- **Web Development:** HTML, CSS, JavaScript
-- **Graphic Design:** Photoshop, Illustrator, Figma
-- **Video Editing:** Premiere Pro, After Effects
-- **Specialties:** Quiz web pages, creative UI/UX, eye-catching graphics
+## 💻 What I'm Learning
+- C# (Basics to OOP concepts)
+- .NET Framework / .NET
+- WPF (XAML, Code-Behind, Window Navigation)
+- Basic SQL (for future database integration)
 
 ---
 
-### 🌟 Projects
-- _Want your favorite projects highlighted here? Just let me know!_
+## 🛠️ Skills
+- C#
+- .NET
+- WPF
+- XAML
+- Visual Studio
+- Git & GitHub (Basics)
 
 ---
 
-### 📫 Connect with Me
-- _Add your social links here for networking!_
+## 📂 Projects
+- **WPF Login Application**  
+  A simple desktop login system built using C# and WPF.
+
+- **Basic Bank Account Creating Form**  
+  A beginner-level WPF application that allows users to enter customer details and create a bank account using form inputs.  
+  This project helped me understand form validation, input handling, and UI layout in WPF.
+
+- More beginner-level projects coming soon 🚀
 
 ---
 
-> “Design is intelligence made visible.”
+## 🎯 Goals
+- Strengthen WPF and .NET concepts
+- Learn MVVM pattern
+- Build real-world desktop applications
+- Prepare for a junior / fresher .NET developer role
 
-Thanks for visiting my profile! 🚀
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/gowtham2401
+
+---
+
+⭐ *I'm continuously learning and improving. Feel free to explore my repositories and follow my journey!*
+
