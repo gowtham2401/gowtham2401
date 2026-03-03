@@ -1,54 +1,121 @@
-# 👋 Hi, I'm Gowtham
+# 👨‍💻 Gowtham M  
+### 🚀 .NET & WPF Developer | Desktop Application Specialist
 
-🎓 **Fresher | Aspiring .NET Developer**
-
-I am a fresher currently learning **C#**, **.NET**, and **WPF (Windows Presentation Foundation)**.  
-I am focused on building strong fundamentals in desktop application development and improving my problem-solving and coding skills.
-
----
-
-## 💻 What I'm Learning
-- C# (Basics to OOP concepts)
-- .NET Framework / .NET
-- WPF (XAML, Code-Behind, Window Navigation)
-- Basic SQL (for future database integration)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=2500&pause=800&color=2A5298&center=true&vCenter=true&width=700&lines=.NET+Developer;WPF+%7C+MVVM+Specialist;Desktop+Application+Builder;Clean+Architecture+Enthusiast" />
+</p>
 
 ---
 
-## 🛠️ Skills
+## 💼 About Me
+
+Hi 👋 I'm **Gowtham**, a passionate **.NET developer** specializing in building professional **WPF desktop applications** using C#, MVVM, and clean architecture principles.
+
+🔹 Strong focus on desktop business applications  
+🔹 Experienced with MVVM and data binding  
+🔹 Passionate about clean and maintainable code  
+🔹 Continuously improving application security and performance  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages & Frameworks
 - C#
-- .NET
+- .NET Framework 4.8
 - WPF
 - XAML
-- Visual Studio
-- Git & GitHub (Basics)
+
+### 🧩 Architecture & Patterns
+- MVVM
+- Data Binding
+- ICommand
+- ObservableCollection
+
+### 🔧 Tools
+- Visual Studio  
+- Git & GitHub  
+- Newtonsoft.Json  
 
 ---
 
-## 📂 Projects
-- **WPF Login Application**  
-  A simple desktop login system built using C# and WPF.
+## ⭐ Featured Projects
 
-- **Basic Bank Account Creating Form**  
-  A beginner-level WPF application that allows users to enter customer details and create a bank account using form inputs.  
-  This project helped me understand form validation, input handling, and UI layout in WPF.
+### 🧾 InvoiceApp — Professional Billing System
+**Tech:** WPF • MVVM • .NET Framework 4.8 • JSON  
 
-- More beginner-level projects coming soon 🚀
+✔ Customer management  
+✔ Automatic tax calculation  
+✔ Professional invoice generation  
+✔ Clean MVVM architecture  
+✔ Local JSON persistence  
 
----
-
-## 🎯 Goals
-- Strengthen WPF and .NET concepts
-- Learn MVVM pattern
-- Build real-world desktop applications
-- Prepare for a junior / fresher .NET developer role
+🔗 Repo:  
+👉 https://github.com/gowtham2401/InvoiceApp
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/gowtham2401
+### 💰 Finance Manager — Personal Finance Tracker
+**Tech:** WPF • MVVM • .NET Framework 4.8 • JSON  
+
+✔ Income & expense tracking  
+✔ Category-wise financial analysis  
+✔ Local data persistence  
+✔ Clean MVVM structure  
+✔ User-friendly desktop UI  
+
+🔗 Repo:  
+👉 https://github.com/gowtham2401/FinanceManager
 
 ---
 
-⭐ *I'm continuously learning and improving. Feel free to explore my repositories and follow my journey!*
+### 🔐 WPF Login App
+Modern authentication UI built using WPF and C#.
 
+🔗 https://github.com/gowtham2401/wpfloginapp
+
+---
+
+### 🏦 Bank Account Page
+Banking-style WPF UI demonstrating layout and data handling.
+
+🔗 https://github.com/gowtham2401/BankAccountPage
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gowtham2401&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham2401&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Current Focus
+
+- Advanced WPF UI/UX  
+- Application security hardening  
+- Performance optimization  
+- Enterprise MVVM patterns  
+- Transitioning toward modern .NET  
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Build enterprise-grade desktop apps  
+- 📦 Publish production-ready installers  
+- 🌟 Contribute to open source .NET projects  
+- 🧠 Master advanced WPF performance tuning  
+- 🔜 Explore WinUI / modern .NET desktop  
+
+---
+
+## 📫 Connect
+
+- 💻 GitHub: https://github.com/gowtham2401
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
