@@ -26,7 +26,7 @@
 - JSON
 
 ### 🧰 Frameworks & Tools
-- .NET Framework 4.8
+- .NET Framework and Core 
 - WPF (Windows Presentation Foundation)
 - MVVM Pattern
 - Visual Studio
