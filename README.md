@@ -1,121 +1,103 @@
-# 👨‍💻 Gowtham M  
-### 🚀 .NET & WPF Developer | Desktop Application Specialist
+<h1 align="center">Hi 👋, I'm Gowtham</h1>
+<h3 align="center">💻 .NET & WPF Developer | Desktop Application Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=2500&pause=800&color=2A5298&center=true&vCenter=true&width=700&lines=.NET+Developer;WPF+%7C+MVVM+Specialist;Desktop+Application+Builder;Clean+Architecture+Enthusiast" />
+  <img src="https://komarev.com/ghpvc/?username=gowtham2401&label=Profile%20views&color=0e75b6&style=flat" alt="gowtham2401" />
 </p>
 
 ---
 
-## 💼 About Me
+## 🧑‍💻 About Me
 
-Hi 👋 I'm **Gowtham**, a passionate **.NET developer** specializing in building professional **WPF desktop applications** using C#, MVVM, and clean architecture principles.
-
-🔹 Strong focus on desktop business applications  
-🔹 Experienced with MVVM and data binding  
-🔹 Passionate about clean and maintainable code  
-🔹 Continuously improving application security and performance  
+- 🔭 I’m focused on **WPF Desktop Application Development**
+- 💡 Strong in **.NET Framework & C#**
+- 🏗️ Building professional **MVVM-based applications**
+- 📦 Experience with **JSON-based local data systems**
+- 🎯 Goal: Become an expert **Enterprise WPF Developer**
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-### 👨‍💻 Languages & Frameworks
+### 👨‍💻 Languages
 - C#
-- .NET Framework 4.8
-- WPF
 - XAML
+- SQL (basic)
+- JSON
 
-### 🧩 Architecture & Patterns
-- MVVM
+### 🧰 Frameworks & Tools
+- .NET Framework 4.8
+- WPF (Windows Presentation Foundation)
+- MVVM Pattern
+- Visual Studio
+- Git & GitHub
+
+### 🎨 WPF Skills
 - Data Binding
-- ICommand
+- Commands (ICommand)
+- Resource Dictionaries
+- Custom Styles & Themes
+- Value Converters
 - ObservableCollection
-
-### 🔧 Tools
-- Visual Studio  
-- Git & GitHub  
-- Newtonsoft.Json  
+- Professional UI Design
 
 ---
 
-## ⭐ Featured Projects
+## 📌 Featured Projects
 
-### 🧾 InvoiceApp — Professional Billing System
-**Tech:** WPF • MVVM • .NET Framework 4.8 • JSON  
+### 🧾 Invoice Generation App
+- Professional WPF invoice management system  
+- MVVM architecture  
+- JSON-based local storage  
+- Clean and modern UI  
+- Auto-calculations for totals and tax  
 
-✔ Customer management  
-✔ Automatic tax calculation  
-✔ Professional invoice generation  
-✔ Clean MVVM architecture  
-✔ Local JSON persistence  
-
-🔗 Repo:  
-👉 https://github.com/gowtham2401/InvoiceApp
-
----
-
-### 💰 Finance Manager — Personal Finance Tracker
-**Tech:** WPF • MVVM • .NET Framework 4.8 • JSON  
-
-✔ Income & expense tracking  
-✔ Category-wise financial analysis  
-✔ Local data persistence  
-✔ Clean MVVM structure  
-✔ User-friendly desktop UI  
-
-🔗 Repo:  
-👉 https://github.com/gowtham2401/FinanceManager
-
----
-
-### 🔐 WPF Login App
-Modern authentication UI built using WPF and C#.
-
-🔗 https://github.com/gowtham2401/wpfloginapp
-
----
-
-### 🏦 Bank Account Page
-Banking-style WPF UI demonstrating layout and data handling.
-
-🔗 https://github.com/gowtham2401/BankAccountPage
+### 💰 Finance Manager
+- Personal finance tracking desktop app  
+- Income & expense management  
+- Category-wise tracking  
+- Local JSON persistence  
+- User-friendly dashboard  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gowtham2401&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham2401&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gowtham2401&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowtham2401&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Current Focus
+## 🧠 Currently Learning
 
-- Advanced WPF UI/UX  
-- Application security hardening  
+- Advanced WPF animations  
 - Performance optimization  
-- Enterprise MVVM patterns  
-- Transitioning toward modern .NET  
+- Secure desktop app architecture  
+- Modern .NET ecosystem  
 
 ---
 
-## 🎯 2026 Goals
+## 🤝 Connect With Me
 
-- 🚀 Build enterprise-grade desktop apps  
-- 📦 Publish production-ready installers  
-- 🌟 Contribute to open source .NET projects  
-- 🧠 Master advanced WPF performance tuning  
-- 🔜 Explore WinUI / modern .NET desktop  
-
----
-
-## 📫 Connect
-
-- 💻 GitHub: https://github.com/gowtham2401
+<p align="left">
+  <a href="https://github.com/gowtham2401" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="github" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*
+## ⭐ Support
+
+If you like my work, consider giving a ⭐ to my repositories!
+
+---
+
+<p align="center">
+  ⚡ Building clean, scalable and professional WPF applications
+</p>
