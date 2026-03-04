@@ -102,12 +102,12 @@ A sophisticated WPF application for managing bank account operations and transac
 ### **Languages & Frameworks**
 ```
 ┌─────────────────────────────────────────┐
-│ ⭐⭐⭐⭐⭐ C#                              │
-│ ⭐⭐⭐⭐⭐ WPF (Windows Presentation)      │
-│ ⭐⭐⭐⭐⭐ .NET Framework & .NET Core       │
-│ ⭐⭐⭐⭐☆ MVVM Architecture                │
-│ ⭐⭐⭐⭐☆ SQL & Database Design            │
-│ ⭐⭐⭐☆☆ HTML5 / CSS3 / JavaScript        │
+│ ⭐⭐⭐⭐⭐ C#                        │
+│ ⭐⭐⭐⭐⭐ WPF (Windows Presentation)│
+│ ⭐⭐⭐⭐⭐ .NET Framework & .NET Core│
+│ ⭐⭐⭐⭐☆ MVVM Architecture          │
+│ ⭐⭐⭐⭐☆ SQL & Database Design      │
+│ ⭐⭐⭐☆☆ HTML5 / CSS3 / JavaScript   │
 └─────────────────────────────────────────┘
 ```
 
